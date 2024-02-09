@@ -768,37 +768,37 @@ if (window.innerWidth > 768) {
 
         function files(index) {
             var data = `
-        .//vision/Screenshot 2024-01-08 215149.png
-        .//vision/Screenshot 2024-01-08 215216.png
-        .//vision/Screenshot 2024-01-08 215236.png
-        .//vision/Screenshot 2024-01-08 215255.png
-        .//vision/Screenshot 2024-01-08 215319.png
-        .//vision/Screenshot 2024-01-08 215342.png
-        .//vision/Screenshot 2024-01-08 215404.png
-        .//vision/Screenshot 2024-01-08 215422.png
-        .//vision/Screenshot 2024-01-08 215449.png
-        .//vision/Screenshot 2024-01-08 215510.png
-        .//vision/Screenshot 2024-01-08 215532.png
-        .//vision/Screenshot 2024-01-08 215552.png
-        .//vision/Screenshot 2024-01-08 215623.png
-        .//vision/Screenshot 2024-01-08 215641.png
-        .//vision/Screenshot 2024-01-08 215731.png
-        .//vision/Screenshot 2024-01-08 215754.png
-        .//vision/Screenshot 2024-01-08 215810.png
-        .//vision/Screenshot 2024-01-08 215829.png
-        .//vision/Screenshot 2024-01-08 215908.png
-        .//vision/Screenshot 2024-01-08 215930.png
-        .//vision/Screenshot 2024-01-08 215947.png
-        .//vision/Screenshot 2024-01-08 220328.png
-        .//vision/Screenshot 2024-01-08 220412.png
-        .//vision/Screenshot 2024-01-09 005448.png
-        .//vision/Screenshot 2024-01-09 005508.png
-        .//vision/Screenshot 2024-01-09 005530.png
-        .//vision/Screenshot 2024-01-09 005549.png
-        .//vision/Screenshot 2024-01-09 005609.png
-        .//vision/Screenshot 2024-01-09 005714.png
-        .//vision/Screenshot 2024-01-09 005853.png
-     `;
+        /vision/Screenshot 2024-01-08 215149.png
+        /vision/Screenshot 2024-01-08 215216.png
+        /vision/Screenshot 2024-01-08 215236.png
+        /vision/Screenshot 2024-01-08 215255.png
+        /vision/Screenshot 2024-01-08 215319.png
+        /vision/Screenshot 2024-01-08 215342.png
+        /vision/Screenshot 2024-01-08 215404.png
+        /vision/Screenshot 2024-01-08 215422.png
+        /vision/Screenshot 2024-01-08 215449.png
+        /vision/Screenshot 2024-01-08 215510.png
+        /vision/Screenshot 2024-01-08 215532.png
+        /vision/Screenshot 2024-01-08 215552.png
+        /vision/Screenshot 2024-01-08 215623.png
+        /vision/Screenshot 2024-01-08 215641.png
+        /vision/Screenshot 2024-01-08 215731.png
+        /vision/Screenshot 2024-01-08 215754.png
+        /vision/Screenshot 2024-01-08 215810.png
+        /vision/Screenshot 2024-01-08 215829.png
+        /vision/Screenshot 2024-01-08 215908.png
+        /vision/Screenshot 2024-01-08 215930.png
+        /vision/Screenshot 2024-01-08 215947.png
+        /vision/Screenshot 2024-01-08 220328.png
+        /vision/Screenshot 2024-01-08 220412.png
+        /vision/Screenshot 2024-01-09 005448.png
+        /vision/Screenshot 2024-01-09 005508.png
+        /vision/Screenshot 2024-01-09 005530.png
+        /vision/Screenshot 2024-01-09 005549.png
+        /vision/Screenshot 2024-01-09 005609.png
+        /vision/Screenshot 2024-01-09 005714.png
+        /vision/Screenshot 2024-01-09 005853.png 
+    `;
             return data.split("\n")[index];
         }
         // Load and animate images
