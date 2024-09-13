@@ -205,11 +205,11 @@ if (window.innerWidth > 768) {
 
         function files(index) {
             var data = `
-         .//Screenshot 2024-01-10 220226.png
-         .//Screenshot 2024-01-10 220636.png
-         .//Screenshot 2024-01-10 220802.png
-         .//Screenshot 2024-01-10 220845.png
-         .//Screenshot 2024-01-10 220929.png
+         .//Img/Screenshot 2024-01-10 220226.png
+         .//Img/Screenshot 2024-01-10 220636.png
+         .//Img/Screenshot 2024-01-10 220802.png
+         .//Img/Screenshot 2024-01-10 220845.png
+         .//Img/Screenshot 2024-01-10 220929.png
       `;
             return data.split("\n")[index];
         }
@@ -766,7 +766,7 @@ if (window.innerWidth > 768) {
         // Initial canvas dimensions setup
         setCanvasDimensions();
 
-         function files(index) {
+        function files(index) {
             var data = `
         .//vision/Screenshot 2024-01-08 215149.png
         .//vision/Screenshot 2024-01-08 215216.png
