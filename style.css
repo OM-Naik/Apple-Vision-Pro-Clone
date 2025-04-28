@@ -361,10 +361,6 @@ body {
     border-color: #000000;
 }
 
-#page>img {
-    display: none;
-}
-
 #page>video {
     position: absolute;
     left: 50%;
@@ -1907,17 +1903,9 @@ span2 {
     }
 
     #page>video {
-        display: none;
-    }
-
-    #page>img {
-        display: block;
-        height: 110%;
         width: 100%;
+        height: 100%;
         object-fit: cover;
-        position: absolute;
-        left: 50%;
-        transform: translateX(-50%);
     }
 
     #page-bottom>#img1,
